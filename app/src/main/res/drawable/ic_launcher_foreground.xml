@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- baseline -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#2B3340"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:pathData="M32,74 L76,74" />
+    <!-- equity curve -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#4FD1C5"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M33,66 L43,57 L51,62 L62,46 L74,38" />
+    <!-- latest point -->
+    <path
+        android:fillColor="#FFB547"
+        android:pathData="M74,38 m-4.5,0 a4.5,4.5 0 1,0 9,0 a4.5,4.5 0 1,0 -9,0" />
+</vector>
